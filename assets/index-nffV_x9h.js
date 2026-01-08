@@ -4289,9 +4289,9 @@ const Ue = "/logo.png",
               (r[2] = Pi(
                 '<div class="hero__container"><div class="hero__content"><div class="hero__title"><img src="' +
                   Ue +
-                  '" alt="UP"></div><div class="hero__actions"><div class="hero__social"><a href="https://t.me/WBE_Eth" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
+                  '" alt="UP"></div><div class="hero__actions"><div class="hero__social"><a href="https://t.me/georgefoiderc" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
                   Hl +
-                  '" alt="Telegram"></a></div><div class="hero__button-box"><a href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon" class="button hero__button" target="_blank" rel="noopener noreferrer"><span>Buy Now</span></a></div><div class="hero__social"><a href="https://x.com/WBE_Eth" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
+                  '" alt="Telegram"></a></div><div class="hero__button-box"><a href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon" class="button hero__button" target="_blank" rel="noopener noreferrer"><span>Buy Now</span></a></div><div class="hero__social"><a href="https://x.com/TheRoyalSerf/status/2009036813818843407" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
                   Fn +
                   '" alt="Twitter"></a></div></div></div></div>',
                 1
@@ -4805,12 +4805,12 @@ const Ue = "/logo.png",
           {
             name: "Twitter",
             icon: "/twitter.png",
-            url: "https://x.com/WBE_Eth",
+            url: "https://x.com/TheRoyalSerf/status/2009036813818843407",
           },
           {
             name: "Telegram",
             icon: "/telegram.png",
-            url: "https://t.me/WBE_Eth",
+            url: "https://t.me/georgefoiderc",
           },
           {
             name: "Dextools",
