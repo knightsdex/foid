@@ -4825,7 +4825,7 @@ const Ue = "/logo.png",
           {
             name: "Dextools",
             icon: "/dextools.png",
-            url: "https://www.dextools.io/app/token/0xComingSoon",
+            url: "https://www.dextools.io/app/pair-explorer/0x4cead11167ccf6cfea04b431f848c97c7ca44016",
           },
         ],
         s = (n) => {
