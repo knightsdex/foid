@@ -4291,7 +4291,7 @@ const Ue = "/logo.png",
                   Ue +
                   '" alt="UP"></div><div class="hero__actions"><div class="hero__social"><a href="https://t.me/georgefoiderc" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
                   Hl +
-                  '" alt="Telegram"></a></div><div class="hero__button-box"><a href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x4cead11167ccf6cfea04b431f848c97c7ca44016" class="button hero__button" target="_blank" rel="noopener noreferrer"><span>Buy Now</span></a></div><div class="hero__social"><a href="https://x.com/TheRoyalSerf/status/2009036813818843407" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
+                  '" alt="Telegram"></a></div><div class="hero__button-box"><a href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x4cead11167ccf6cfea04b431f848c97c7ca44016" class="button hero__button" target="_blank" rel="noopener noreferrer"><span>Buy Now</span></a></div><div class="hero__social"><a href="https://x.com/georgefoiderc" class="hero__social-item" target="_blank" rel="noopener noreferrer"><img src="' +
                   Fn +
                   '" alt="Twitter"></a></div></div></div></div>',
                 1
@@ -4815,7 +4815,7 @@ const Ue = "/logo.png",
           {
             name: "Twitter",
             icon: "/twitter.png",
-            url: "https://x.com/TheRoyalSerf/status/2009036813818843407",
+            url: "https://x.com/georgefoiderc",
           },
           {
             name: "Telegram",
