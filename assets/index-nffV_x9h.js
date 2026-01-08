@@ -4424,7 +4424,7 @@ const Ue = "/logo.png",
           { value: "100,000,000", label: "Token Supply" },
           { value: "0%", label: "Buy/Sell Tax" },
           { value: "100%", label: "LP Burnt" },
-          { value: "$WBE", label: "Symbol" },
+          { value: "$Foid", label: "Symbol" },
         ],
         l = async () => {
           if (!o.value)
