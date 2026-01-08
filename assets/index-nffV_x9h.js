@@ -4374,6 +4374,16 @@ const Ue = "/logo.png",
                           null,
                           "They're calling her George Foid"
                         ),
+                        _(
+                          "p",
+                          null,
+                          "Renee Good a professional protester out of Missouri was killed."
+                        ),
+                        _(
+                          "p",
+                          null,
+                          "She had no rights in Minneapolis Minnesota. Looks to be a paid pro activist."
+                        ),
                       ],
                       -1
                     )),
